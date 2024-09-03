@@ -1,2 +1,1 @@
-pass 1st stage
-./interpreter.sh
+--allow-empty -m
