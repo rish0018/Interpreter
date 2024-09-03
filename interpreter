@@ -1,1 +1,1 @@
-git commit --allow-empty -m "nothing"
+print( "pass 1st stage")
