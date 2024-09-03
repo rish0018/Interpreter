@@ -1,2 +1,2 @@
-git commit --allow-empty -m 'test'
-git push origin master
+commit --allow-empty -m 'test'
+push origin master
